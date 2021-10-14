@@ -1,9 +1,10 @@
-# Emoji-node
+# Moji-node
 ![](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=flat-square)
 [![](https://img.shields.io/badge/NPM-1.0.0-red?style=flat-square)](https://www.npmjs.com/package/moji-node)
+[![](https://img.shields.io/badge/💻-Website-blue?style=flat-square)](https://alexandrepletty.com/portfolio/cd18/moji-node)
 
-💻 [Website](https://alexandrepletty.com/)
+![](https://cloud.alexandrepletty.com/app/media/a3573af1-7426-498c-a0d8-565ec723d817.png)
 
 ### 🛠️ Installation
 To set up the project run the following command
@@ -52,3 +53,4 @@ He will return :
 ```text
 Hello ➰
 ```
+![](https://cloud.alexandrepletty.com/app/media/ff91f1f9-2ca4-4a99-9fd7-89c548b891cc.png)
