@@ -28,7 +28,7 @@ const {stringify, parse} = require('moji-node')
 ```
 
 ### 🪄 Stringify
-the X function allows you to transform a text with emojis into code to be able to easily save them in a database  
+the stringify function allows you to transform a text with emojis into code to be able to easily save them in a database  
 
 To transform a text that includes emojis you must use the **stringify** function :
 ```javascript
