@@ -18,12 +18,12 @@ yarn add emoji-node
 Import into the file where you want to use this dependency:
 
 ```javascript
-const emojie = require('emojijs')
+const emojie = require('emoticonjs')
 ```
 or
 
 ```javascript
-const {stringify, parse} = require('emojijs')
+const {stringify, parse} = require('emoticonjs')
 ```
 
 ### 🪄 Stringify

@@ -1,9 +1,9 @@
 {
-	"name": "emojijs",
+	"name": "emoticonjs",
 	"version": "1.0.0",
 	"description": "Allows you to transform emojis into code and codes into emojis",
 	"main": "index.js",
-	"repository": "https://github.com/alexandrepletty/emojijs",
+	"repository": "https://github.com/alexandrepletty/emoticonjs",
 	"author": "Alexandre Pletty <alexandre.pletty@gmail.com>",
 	"license": "MIT",
 	"private": false,
