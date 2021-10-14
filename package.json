@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Allows you to transform emojis into code and codes into emojis",
 	"main": "index.js",
-	"repository": "/",
+	"repository": "https://github.com/alexandrepletty/emoji-node",
 	"author": "Alexandre Pletty <alexandre.pletty@gmail.com>",
 	"license": "MIT",
 	"private": true,
