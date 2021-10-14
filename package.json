@@ -6,7 +6,7 @@
 	"repository": "https://github.com/alexandrepletty/emoji-node",
 	"author": "Alexandre Pletty <alexandre.pletty@gmail.com>",
 	"license": "MIT",
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"emoji-datasource": "^7.0.2",
 		"lodash": "^4.17.21",
