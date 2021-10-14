@@ -8,11 +8,11 @@
 ### 🛠️ Installation
 To set up the project run the following command
 ```
-npm install emoji-node
+npm install moji-node
 ```
 or if you use yarn
 ```
-yarn add emoji-node
+yarn add moji-node
 ```
 
 ### 📰 Usage
