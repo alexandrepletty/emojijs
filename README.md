@@ -1,6 +1,7 @@
 # Emoji-node
 ![](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=flat-square)
+[![](https://img.shields.io/badge/NPM-1.0.0-red?style=flat-square)](https://www.npmjs.com/package/moji-node)
 
 💻 [Website](https://alexandrepletty.com/)
 
