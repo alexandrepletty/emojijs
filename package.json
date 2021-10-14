@@ -1,0 +1,15 @@
+{
+	"name": "emoji-node",
+	"version": "1.0.0",
+	"description": "Allows you to transform emojis into code and codes into emojis",
+	"main": "index.js",
+	"repository": "/",
+	"author": "Alexandre Pletty <alexandre.pletty@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"emoji-datasource": "^7.0.2",
+		"lodash": "^4.17.21",
+		"string.fromcodepoint": "^1.0.0"
+	}
+}
