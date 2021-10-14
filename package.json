@@ -1,5 +1,5 @@
 {
-	"name": "emoji-node",
+	"name": "emojijs",
 	"version": "1.0.0",
 	"description": "Allows you to transform emojis into code and codes into emojis",
 	"main": "index.js",
